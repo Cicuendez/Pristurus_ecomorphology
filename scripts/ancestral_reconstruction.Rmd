@@ -235,7 +235,7 @@ saveRDS(pd_habitat_post, 'objects/anc_rec/pd_habitat_post.rds')
 ```
 
 ## Conclusion
-Now we have the *Pristurus* phylogeny(s) mapped with the discrete traits. 
+Now we have the *Pristurus* phylogeny (and the posterior trees) mapped with the discrete traits. 
 We will use them for subsequent analyses of evolutionary rates of continuous variables 
 (size and shape), exploring how the insularity or the habitat specialization have 
 affected morphological evolution in this genus. 
